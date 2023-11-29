@@ -25,3 +25,6 @@ If you are having trouble downloading these files, here is a helpful article on 
 ## Reproducibility
 If you wish to see how this data was produced, click [here](https://github.com/tj12345654/North-Carolina-Financial-and-Health-Data/blob/main/Data_Subset_Instructions.ipynb)
 
+## Acknowledgements
+This was for an English 105 class at University of North Carolina at Chapel Hill for Dr. Gotzler.
+
