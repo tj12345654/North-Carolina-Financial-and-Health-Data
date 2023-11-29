@@ -23,5 +23,5 @@ If you are having trouble downloading these files, here is a helpful article on 
 [How to Download from GitHub](https://zapier.com/blog/how-to-download-from-github/)
 
 ## Reproducibility
-If you wish to see how this data was produced, click ###[here](https://github.com/tj12345654/North-Carolina-Financial-and-Health-Data/blob/main/Data_Subset_Instructions.ipynb)
+If you wish to see how this data was produced, click [here](https://github.com/tj12345654/North-Carolina-Financial-and-Health-Data/blob/main/Data_Subset_Instructions.ipynb)
 
