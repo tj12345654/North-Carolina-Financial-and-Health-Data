@@ -22,6 +22,9 @@ If you are having trouble downloading these files, here is a helpful article on 
 
 [How to Download from GitHub](https://zapier.com/blog/how-to-download-from-github/)
 
+## Origin of Data
+This repository is based off of a dataset consisting of health data across all counties in the United States from 2014-2015.
+
 ## Reproducibility
 If you wish to see a step-by-step process of how this data was produced, click [here](https://github.com/tj12345654/North-Carolina-Financial-and-Health-Data/blob/main/Data_Subset_Instructions.ipynb)
 
