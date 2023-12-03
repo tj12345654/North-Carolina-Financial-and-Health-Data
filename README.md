@@ -26,7 +26,7 @@ If you are having trouble downloading these files, here is a helpful article on 
 This repository is based off of a dataset consisting of health data across all counties in the United States from 2014-2015.
 
 ## Reproducibility
-If you wish to see a step-by-step process of how this data was produced, click [here](https://github.com/tj12345654/North-Carolina-Financial-and-Health-Data/blob/main/Data_Subset_Instructions.ipynb)
+If you wish to see a step-by-step process of how this data was produced, click [here](https://github.com/tj12345654/North-Carolina-Financial-and-Health-Data/blob/main/Data_Subset_Instructions(1).ipynb)
 
 If you wish to recreate the data or make your own changes, click [here](https://github.com/tj12345654/North-Carolina-Financial-and-Health-Data/blob/main/CountyHealthData_2014-2015.csv) for the raw dataset.
 
